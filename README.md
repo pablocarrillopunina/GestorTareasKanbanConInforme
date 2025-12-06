@@ -42,8 +42,8 @@ El diseño es claro, visual y organizado, siguiendo las recomendaciones de la pr
 ## ⭐ Extensiones Opcionales Implementadas
 - ✔ Notificaciones visuales  
 - ✔ Organización de código clara  
-- (Opcional) Persistencia en JSON  
-- (Opcional) Personalización de columnas  
+- ✔ Persistencia en JSON  
+  
 
 ---
 
