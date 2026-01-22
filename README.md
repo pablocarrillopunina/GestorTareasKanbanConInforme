@@ -47,9 +47,72 @@ El diseño es claro, visual y organizado, siguiendo las recomendaciones de la pr
 
 ---
 
+📊 Informe Kanban (Funcionalidad Avanzada)
+
+La aplicación incluye un Informe Kanban accesible desde el formulario principal mediante el botón “Ver informe”.
+
+Funcionalidades del Informe
+
+📋 Listado completo de tareas en una tabla
+
+📊 Gráfico estadístico del estado de las tareas:
+
+Pendiente (rojo)
+
+En Proceso (amarillo)
+
+Completado (verde)
+
+🔄 Cambio dinámico de tipo de gráfico:
+
+Circular
+
+Barras
+
+Áreas
+
+🔍 Filtros por parámetros:
+
+Estado de la tarea
+
+Usuario (si existe la propiedad)
+
+📈 Cálculo automático:
+
+Total de tareas
+
+Porcentaje de tareas completadas
+
+📤 Exportación a Excel (.xlsx) mediante ClosedXML
+
+🎨 Diseño y Limpieza Visual
+
+Colores coherentes con el tablero Kanban
+
+Distribución clara y profesional
+
+Leyendas visibles en los gráficos
+
+Interfaz intuitiva y organizada
+
+⭐ Extensiones Implementadas
+
+✔ Informe visual con gráficos dinámicos
+
+✔ Exportación a Excel
+
+✔ Filtros por parámetros
+
+✔ Persistencia en JSON
+
+✔ Notificaciones visuales
+
+✔ Código organizado y modular
+
 ## 📂 Estructura del Proyecto
 
-<img width="247" height="487" alt="image" src="https://github.com/user-attachments/assets/864bb0cc-7871-4cf2-9436-6be100c60710" />
+<img width="577" height="391" alt="image" src="https://github.com/user-attachments/assets/801497c7-b5a5-448c-a898-dca3d7bb0608" />
+
 
 ## 🚀 Cómo Ejecutarlo
 1. Abrir el proyecto en Visual Studio  
